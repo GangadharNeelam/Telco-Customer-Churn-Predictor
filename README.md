@@ -1,7 +1,7 @@
 # Telecome customer churn prediction using Artificial neural networks
 
 ### Objective
-To create a deep learning model to predict customer churn in a telecom company to retain customers.
+Create a deep learning model to predict customer churn in a telecom company to retain customers. It will help us to analyze all relevant customer data and develop focused customer retention programs.
 
 ### Technical stack used
 - Numpy
