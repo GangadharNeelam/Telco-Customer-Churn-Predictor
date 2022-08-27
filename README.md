@@ -1,1 +1,2 @@
-# Telco-customer-churn-using-ANN
+# Telecome customer churn prediction using Artificial neural networks
+
