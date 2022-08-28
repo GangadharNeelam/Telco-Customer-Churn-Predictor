@@ -13,7 +13,7 @@ Create a deep learning model to predict customer churn in a telecom company to r
 - Keras
 
 ### Model outcome
-- Accuracy - 80%
+- Accuracy - 83%
 - Confusion matrix
 
-![telco_cust](https://user-images.githubusercontent.com/93145713/187029952-409aa82b-be35-43fd-ae56-42fd35c25f56.png)
+![telco_cust](https://user-images.githubusercontent.com/93145713/187087957-2d7e831a-eaea-480e-868a-b637332b2627.png)
